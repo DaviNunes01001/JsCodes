@@ -1,0 +1,4 @@
+a) Renderizar uma lista na tela -- map para as listas que desejo
+b) Somar o total de um carrinho  -- reduce
+c) Exibir apenas itens ativos -- filter
+d) Apenas executar um console.log para cada item -- forEach
