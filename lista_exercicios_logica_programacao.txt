@@ -1,0 +1,72 @@
+LISTA DE EXERCÍCIOS – LÓGICA DE PROGRAMAÇÃO
+Do nível básico ao avançado
+
+========================
+NÍVEL BÁSICO
+========================
+1. Leia dois números e mostre a soma.
+2. Leia um número e informe se ele é positivo, negativo ou zero.
+3. Leia a idade de uma pessoa e diga se ela é maior de idade.
+4. Leia um número e informe se ele é par ou ímpar.
+5. Leia três notas e calcule a média.
+6. Leia um salário e aplique um aumento de 10%.
+7. Leia o nome de uma pessoa e exiba uma saudação.
+8. Leia dois números e informe qual é o maior.
+9. Converta Celsius para Fahrenheit.
+10. Leia um valor e mostre o dobro e a metade.
+
+========================
+NÍVEL INTERMEDIÁRIO
+========================
+11. Leia 10 números e mostre a soma.
+12. Leia números até digitar 0 e mostre a média.
+13. Mostre os números de 1 a 100.
+14. Mostre apenas os números pares de 1 a 50.
+15. Leia um número e mostre a tabuada.
+16. Leia 5 idades e conte quantas são maiores de idade.
+17. Calcule o fatorial de um número.
+18. Verifique se um número é primo.
+19. Verifique se 3 valores formam um triângulo.
+20. Simule um caixa eletrônico.
+
+========================
+NÍVEL INTERMEDIÁRIO AVANÇADO
+========================
+21. Armazene 10 números em um vetor.
+22. Mostre o maior e o menor valor do vetor.
+23. Calcule a média do vetor.
+24. Conte quantos números pares existem.
+25. Inverta os valores do vetor.
+26. Verifique se uma palavra é palíndromo.
+27. Conte vogais em uma frase.
+28. Ordene nomes em ordem alfabética.
+29. Verifique se um número existe no vetor.
+30. Remova valores duplicados.
+
+========================
+NÍVEL AVANÇADO
+========================
+31. Função para calcular média.
+32. Função para verificar número primo.
+33. Programa com menu de operações.
+34. Calcule potência sem operador pronto.
+35. Valide uma senha.
+36. Sistema de login com tentativas.
+37. Cadastro simples de usuários.
+38. Ordene um vetor manualmente.
+39. Jogo de adivinhação.
+40. Conversor de moedas.
+
+========================
+NÍVEL AVANÇADO – DESAFIOS
+========================
+41. Sistema de votação.
+42. Controle de estoque.
+43. Algoritmo Bubble Sort.
+44. Verifique matriz identidade.
+45. Agenda de contatos.
+46. Sistema bancário simples.
+47. Sequência de Fibonacci.
+48. Validador de CPF.
+49. Carrinho de compras.
+50. Torre de Hanói.
