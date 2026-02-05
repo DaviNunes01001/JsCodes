@@ -1,32 +1,33 @@
-#JavaScript Code Folder
+# JsCodes — Projetos e Exercícios em JavaScript
 
->  **This is my JavaScript code folder.**  
-> I use it only as a **portfolio** for my **JS studies**.  
-
----
-
-##  About
-Here you’ll find my small projects, challenges, and experiments made while learning **JavaScript**.  
-Each file represents a step in my journey as a developer 💪  
+Repositório simples para estudos e prática de JavaScript. Contém exercícios organizados por nível e material de apoio.
 
 ---
 
-##  What’s Inside:
--  Simple and intermediate coding challenges  
--  Practice with logic and functions  
--  Experiments using conditionals, loops, and arrays  
--  Console tests and learning scripts  
+## Estrutura principal
+- `exercicios/` — pasta com os exercícios organizados por nível:
+  - `basico/` (1–10)
+  - `intermediario/` (11–20)
+  - `intermediario-avancado/` (21–30)
+  - `avancado/` (31–40)
+  - `avancado-desafios/` (41–50)
+  - `templates/` — modelos para criar novos exercícios
+
 
 ---
 
-##  Goal
-To learn, make mistakes, test, and improve — one line of code at a time.  
-Nothing professional — just the **beginning of the journey!**
+## Como usar
+- Cada nível tem um `index.js` que importa automaticamente os exercícios dessa pasta.
+- Para carregar tudo: `const exercicios = require('./exercicios');` e acessar `exercicios.basico`, `exercicios.intermediario`, etc.
+- Existem templates em `exercicios/templates` e `_template.js` dentro de cada nível para facilitar a criação de novos exercícios.
 
 ---
 
+## Contribuir (rápido)
+1. Crie/edite um arquivo seguindo a numeração do nível correspondente.  
+2. Use o `_template.js` como base (comentários com enunciado).  
+3. Atualize o `README.md` do nível se adicionar novos exercícios importantes.
+
 ---
 
-### 🇧🇷 tradução
->  Esta é minha pasta de códigos JavaScript.  
-> Uso apenas como **portfólio de estudos** e prática com **JS**.
+Este repositório é uma coleção de estudos — simples e direta, pensada para aprendizado e prática.
