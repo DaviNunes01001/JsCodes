@@ -1,0 +1,3 @@
+function par(num,verificador) {
+
+}
