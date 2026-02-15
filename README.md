@@ -23,11 +23,4 @@ Repositório simples para estudos e prática de JavaScript. Contém exercícios 
 
 ---
 
-## Contribuir (rápido)
-1. Crie/edite um arquivo seguindo a numeração do nível correspondente.  
-2. Use o `_template.js` como base (comentários com enunciado).  
-3. Atualize o `README.md` do nível se adicionar novos exercícios importantes.
-
----
-
 Este repositório é uma coleção de estudos — simples e direta, pensada para aprendizado e prática.
