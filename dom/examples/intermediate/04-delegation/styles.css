@@ -1,0 +1,3 @@
+#delegation-container ul{ list-style:none; padding:0 }
+#delegation-container li{ padding:8px; border-bottom:1px solid #ddd; cursor:pointer }
+#delegation-container li:hover{ background:#f6f9ff }
