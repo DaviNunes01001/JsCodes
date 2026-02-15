@@ -1,0 +1,23 @@
+{
+  "name": "minha-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serverApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakizao6074/Minha-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakizao6074/Minha-api/issues"
+  },
+  "homepage": "https://github.com/hakizao6074/Minha-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
