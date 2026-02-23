@@ -1,8 +1,7 @@
 function Sauda(nome, callback) {
-    console.log(`Ola ${nome}`)
-    callback()
+    callback(nome)
 };
 
-Sauda("Davi ", function() {
-    console.log("Seja Bem vindo")
+Sauda("Davi ", function(nome) {
+    console.log(`Seja Bem vindo: ${nome}`)
 });
