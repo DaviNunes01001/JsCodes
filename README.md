@@ -1,26 +1,64 @@
-# JsCodes — Projetos e Exercícios em JavaScript
+# JsCodes — Estudos e Exercícios em JavaScript
 
-Repositório simples para estudos e prática de JavaScript. Contém exercícios organizados por nível e material de apoio.
-
----
-
-## Estrutura principal
-- `exercicios/` — pasta com os exercícios organizados por nível:
-  - `basico/` (1–10)
-  - `intermediario/` (11–20)
-  - `intermediario-avancado/` (21–30)
-  - `avancado/` (31–40)
-  - `avancado-desafios/` (41–50)
-  - `templates/` — modelos para criar novos exercícios
-
+![Status](https://img.shields.io/badge/status-em%20andamento-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 
 ---
 
-## Como usar
-- Cada nível tem um `index.js` que importa automaticamente os exercícios dessa pasta.
-- Para carregar tudo: `const exercicios = require('./exercicios');` e acessar `exercicios.basico`, `exercicios.intermediario`, etc.
-- Existem templates em `exercicios/templates` e `_template.js` dentro de cada nível para facilitar a criação de novos exercícios.
+## Sobre
+
+Repositório de estudos de JavaScript, organizado ao longo do curso de ADS.
+
+Cobre desde fundamentos da linguagem até manipulação de DOM, módulos, servidor com Node.js e introdução ao React.
 
 ---
 
-Este repositório é uma coleção de estudos — simples e direta, pensada para aprendizado e prática.
+## Estrutura
+
+```
+JsCodes
+│
+├── Aulas-1           # Fundamentos: variáveis, tipos, operadores
+├── Aulas-2           # Funções, condicionais, loops
+├── Aulas-3           # Listas e coleções
+├── Aulas-4           # Tópicos avançados de aula
+├── dom               # Manipulação do DOM
+├── module            # Módulos JavaScript (import/export)
+├── servidorNode      # Servidor HTTP com Node.js puro
+├── React             # Primeiros passos com React
+├── Code              # Códigos avulsos e experimentos
+└── exercicios        # Exercícios organizados por nível
+    ├── basico            (1–10)
+    ├── intermediario     (11–20)
+    ├── intermediario-avancado (21–30)
+    ├── avancado          (31–40)
+    └── avancado-desafios (41–50)
+```
+
+---
+
+## Tópicos cobertos
+
+| Tópico | Pasta |
+|---|---|
+| Fundamentos JS | `Aulas-1` a `Aulas-4` |
+| Manipulação de DOM | `dom` |
+| Módulos ES6 | `module` |
+| Servidor com Node.js | `servidorNode` |
+| Introdução ao React | `React` |
+| Lógica e algoritmos | `exercicios` |
+
+---
+
+## Exercícios
+
+Os exercícios estão organizados por nível de dificuldade, do básico ao avançado.
+
+A lista completa de exercícios está em [`lista_exercicios_logica_programacao.txt`](./lista_exercicios_logica_programacao.txt).
+
+---
+
+> Repositório em constante atualização conforme o avanço nos estudos.
